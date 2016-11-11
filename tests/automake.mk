@@ -56,6 +56,7 @@ TESTSUITE_AT = \
 	tests/lockfile.at \
 	tests/reconnect.at \
 	tests/ovs-vswitchd.at \
+	tests/ovs-monitor-ipsec.at \
 	tests/dpif-netdev.at \
 	tests/dpctl.at \
 	tests/ofproto-dpif.at \
